@@ -1,4 +1,4 @@
-# 🅰️ Adventurous Inc. 🅰️
+# Adventurous Inc.
 
 **Welcome to our GitHub organization!** 👋
 
