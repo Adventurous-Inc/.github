@@ -6,4 +6,4 @@ We’re a team of **passionate creators** working on **high-quality Roblox exper
 
 This organization houses all of our private and some public projects!📚
 
-![Logo](../logo.png)
+<img src="../logo.png" alt="Logo" style="width: 400px; height: auto;" />
